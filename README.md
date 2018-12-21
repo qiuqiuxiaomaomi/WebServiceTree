@@ -48,4 +48,4 @@ WebService 的整个原理流程:
 		6.Web Server A 回应的也是 HTTP 协议的 SOAP 包 . 这样双方的请求 - 响应完全畅通
 </pre>
 
-
+![](https://i.imgur.com/JJC2B0C.png)

@@ -49,3 +49,16 @@ WebService 的整个原理流程:
 </pre>
 
 ![](https://i.imgur.com/JJC2B0C.png)
+
+![](https://i.imgur.com/3UlDKe9.png)
+
+![](https://i.imgur.com/PfooviC.png)
+
+![](https://i.imgur.com/ZovyxYa.png)
+
+![](https://i.imgur.com/rIMhVxv.png)
+
+打开命令行窗口，切换到src目录，执行
+"wsimport -keep http://192.168.1.100:8888/WebService?wsdl"生成客户端代码
+
+![](https://i.imgur.com/ceYoz89.png)
